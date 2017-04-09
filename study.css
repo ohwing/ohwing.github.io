@@ -67,6 +67,9 @@ html {
     .card {
         width: 100%;
     }
+    .bgk-img img {
+        height: 60vh;
+    }
 }
 
 
@@ -75,6 +78,9 @@ html {
 @media (min-width: 576px) and (max-width: 767px) {
     .card {
         width: 100%;
+    }
+    .bgk-img img {
+        height: 60vh;
     }
 }
 
@@ -85,6 +91,9 @@ html {
     .card {
         width: 50%;
     }
+    .bgk-img img {
+        height: 70vh;
+    }
 }
 
 
@@ -93,6 +102,9 @@ html {
 @media (min-width: 992px) and (max-width: 1199px) {
     .card {
         width: 50%;
+    }
+    .bgk-img img {
+        height: 80vh;
     }
 }
 
